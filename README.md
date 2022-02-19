@@ -1,8 +1,6 @@
 Hi there, I'm Pedro Makiolke
 
-- 🔭 I’m currently working on Pro4ce Tecnologias, as a Full-Stack developer
 - 🌱 I’m currently learning .NET, Java and Python
-- ⚡ Fun fact: I love ducks 
 
 ## <div> 
   <a href = "mailto:pfmakiolke23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

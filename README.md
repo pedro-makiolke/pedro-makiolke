@@ -1,6 +1,6 @@
 Hi there, I'm Pedro Makiolke
 
-- 🌱 I’m currently learning .NET, Java and Python
+- 🌱 I’m currently learning Java.
 
 ## <div> 
   <a href = "mailto:pfmakiolke23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
